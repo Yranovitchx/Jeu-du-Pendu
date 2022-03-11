@@ -1,0 +1,8 @@
+Cahier des charges - https://mega.nz/file/cMIWVZyZ#YRPmU_pgBVanusB5r4P0OMBHRGgy2EFidL7e0e6-R9U
+
+Si ce n'est pas déjà fait, récupérez le cahier des charges ici et le lot d'images du pendu ici.
+Créez une nouvelle application de bureau sous Visual Studio (application graphique).
+Commencez par la construction de l'interface, avec les objets graphiques indispensables. Prévoyez la zone d'affichage des images du pendu.
+Configurez chaque objet graphique (taille et type de police, ...).
+Au niveau du code, pour le moment, créez juste le module simple suggéré par votre responsable (voir conseils ci-dessous) et appelez-le dès le chargement du formulaire.
+Faites un test pour voir si l'interface s'affiche correctement et si le combo est rempli avec les lettres.
