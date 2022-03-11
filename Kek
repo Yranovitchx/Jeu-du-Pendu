@@ -1,8 +1,25 @@
 Cahier des charges - https://mega.nz/file/cMIWVZyZ#YRPmU_pgBVanusB5r4P0OMBHRGgy2EFidL7e0e6-R9U
 
+Sprint 1 :
 Si ce n'est pas déjà fait, récupérez le cahier des charges ici et le lot d'images du pendu ici.
 Créez une nouvelle application de bureau sous Visual Studio (application graphique).
 Commencez par la construction de l'interface, avec les objets graphiques indispensables. Prévoyez la zone d'affichage des images du pendu.
 Configurez chaque objet graphique (taille et type de police, ...).
 Au niveau du code, pour le moment, créez juste le module simple suggéré par votre responsable (voir conseils ci-dessous) et appelez-le dès le chargement du formulaire.
 Faites un test pour voir si l'interface s'affiche correctement et si le combo est rempli avec les lettres.
+
+
+Sprint 2 : gérer la navigation et la sécurisation de l'interface
+Reprenez le projet que vous avez commencé dans le sprint 1, avec la construction de l'interface (vous pouvez aussi partir de la correction du sprint 1, que vous pouvez à nouveau télécharger ici).
+Codez tout ce qui permet de gérer la sécurisation de l'interface, comme demandé dans le cahier des charges, partie "sécurisation". Dans ce sprint, vous n'avez pas à gérer le remplacement des lettres du mot par des tirets, la recherche d'une lettre dans le mot, le remplacement du tiret par la lettre trouvée, l'affichage des images et la fin du jeu (gagné ou perdu).
+Testez l'application avec les outils de l'IDE, afin de vous assurer de son bon fonctionnement.
+
+Sprint 3 : créer les fonctionnalités de l'application
+Reprenez le projet que vous avez commencé dans le sprint 2, avec la construction de l'interface (vous pouvez aussi partir de la correction du sprint 2, que vous pouvez à nouveau télécharger ici).
+Codez les fonctionnalités de l'application : le remplacement des lettres du mot par des tirets, la recherche d'une lettre dans le mot, le remplacement du tiret par la lettre trouvée, l'affichage des images et la fin du jeu (gagné ou perdu).
+Testez l'application avec les outils de l'IDE, afin de vous assurer de son bon fonctionnement.
+
+Sprint 4 : 
+Reprenez le projet que du sprint 3 (vous pouvez aussi partir de la correction du sprint 3, que vous pouvez à nouveau télécharger ici).
+Optimisez l'interface au niveau de la proposition des lettres de la phase 2 du jeu, en suivant les conseils de votre responsable (ci-dessous).
+Testez l'application avec les outils de l'IDE, afin de vous assurer de son bon fonctionnement.
